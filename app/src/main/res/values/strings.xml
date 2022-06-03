@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Berdaq Gargabay uli</string>
+    <string name="lifestyle">Ómiri</string>
+    <string name="berdaq">Berdaq Ǵarǵabay uli</string>
+    <string name="literary_creativity">Ádebiy \ndóretiwshiligi</string>
+    <string name="songs">Qosiqlari</string>
+    <string name="poets">Poemalari</string>
+    <string name="info">Haqqimizda</string>
+    <string name="main">Tiykarǵi</string>
+    <string name="poet_info">Berdaq Ǵarǵabay ulı (1827 - 1900) - Qaraqalpaq klassik shayırlarınıń ishinde óziniń ómir bayanına tiyisli bazıbir dereklerdi qolı menen jazıp qaldırǵan shayır Berdaq boladı. Ol óziniń ataqlı \"Ómirim\" qosıǵında óziniń avtobiografiyasın qaldırǵan.</string>
+    <string name="childhood">Childhood</string>
+    <string name="about" >Bul programma <font fgcolor="#ff0000"> <a href="https://t.me/NKamilovich/">Mirzabek</a> </font> tárepinen jaratildi. Jaqinnan járdem bergen Zamira Seytmamutova, Maxset Doshbaev, Gúlbaxar Umarova hám Azat Bekmuratovlarǵa óz minnetdarshiliǵimizdi bildirip qalamiz.</string>
+    <string name="about_title">Haqqimizda</string>
+</resources>
