@@ -4,12 +4,14 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/User/AndroidStudioProjects/BerdaqGargabayuli/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
-        <entry key="..\:/Users/User/AndroidStudioProjects/BerdaqGargabayuli/app/src/main/res/layout/fragment_about.xml" value="0.19814814814814816" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BerdaqGargabayuli/app/src/main/res/layout/fragment_about.xml" value="0.25" />
         <entry key="..\:/Users/User/AndroidStudioProjects/BerdaqGargabayuli/app/src/main/res/layout/fragment_creativity.xml" value="0.203125" />
         <entry key="..\:/Users/User/AndroidStudioProjects/BerdaqGargabayuli/app/src/main/res/layout/fragment_info.xml" value="0.203125" />
         <entry key="..\:/Users/User/AndroidStudioProjects/BerdaqGargabayuli/app/src/main/res/layout/fragment_lifestyle.xml" value="0.203125" />
         <entry key="..\:/Users/User/AndroidStudioProjects/BerdaqGargabayuli/app/src/main/res/layout/fragment_lifestyle_info.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/User/AndroidStudioProjects/BerdaqGargabayuli/app/src/main/res/layout/fragment_main.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BerdaqGargabayuli/app/src/main/res/layout/fragment_one_poem.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BerdaqGargabayuli/app/src/main/res/layout/fragment_one_song.xml" value="0.19814814814814816" />
         <entry key="..\:/Users/User/AndroidStudioProjects/BerdaqGargabayuli/app/src/main/res/layout/fragment_poems.xml" value="0.203125" />
         <entry key="..\:/Users/User/AndroidStudioProjects/BerdaqGargabayuli/app/src/main/res/layout/fragment_songs.xml" value="0.203125" />
         <entry key="..\:/Users/User/AndroidStudioProjects/BerdaqGargabayuli/app/src/main/res/layout/item_lifestyle.xml" value="0.20416666666666666" />

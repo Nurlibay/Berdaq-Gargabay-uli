@@ -7,8 +7,10 @@ import androidx.room.RoomDatabase
 import uz.texnopos.berdaqgargabayuli.data.dao.PoetDao
 import uz.texnopos.berdaqgargabayuli.data.entity.Creativity
 import uz.texnopos.berdaqgargabayuli.data.entity.LifeStyle
+import uz.texnopos.berdaqgargabayuli.data.entity.Poems
+import uz.texnopos.berdaqgargabayuli.data.entity.Songs
 
-@Database(entities = [LifeStyle::class, Creativity::class], version = 2)
+@Database(entities = [LifeStyle::class, Creativity::class, Songs::class, Poems::class], version = 5)
 abstract class PoetDatabase : RoomDatabase() {
 
     companion object {
@@ -17,9 +19,9 @@ abstract class PoetDatabase : RoomDatabase() {
             if (!Companion::INSTANCE.isInitialized) {
                 INSTANCE = Room.databaseBuilder(
                     context, PoetDatabase::class.java,
-                    "poet1.db"
+                    "poet4.db"
                 )
-                    .createFromAsset("poet1.db")
+                    .createFromAsset("poet4.db")
                     .build()
             }
             return INSTANCE

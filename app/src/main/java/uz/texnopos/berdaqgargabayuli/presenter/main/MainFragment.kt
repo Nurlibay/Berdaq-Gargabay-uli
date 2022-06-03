@@ -28,7 +28,7 @@ class MainFragment: Fragment(R.layout.fragment_main) {
                 navController.navigate(MainFragmentDirections.actionMainFragmentToSongsFragment())
             }
             btnPoets.onClick {
-                navController.navigate(MainFragmentDirections.actionMainFragmentToPoemsFragment())
+                navController.navigate(MainFragmentDirections.actionMainFragmentToPoemListFragment3())
             }
         }
     }

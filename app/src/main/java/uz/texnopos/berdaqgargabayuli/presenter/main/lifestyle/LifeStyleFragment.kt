@@ -1,6 +1,7 @@
 package uz.texnopos.berdaqgargabayuli.presenter.main.lifestyle
 
 import android.os.Bundle
+import android.text.method.LinkMovementMethod
 import android.view.View
 import androidx.fragment.app.Fragment
 import androidx.navigation.NavController
@@ -22,6 +23,7 @@ class LifeStyleFragment : Fragment(R.layout.fragment_lifestyle) {
         super.onViewCreated(view, savedInstanceState)
         binding = FragmentLifestyleBinding.bind(view).apply {
             rvLifeStyle.adapter = adapter
+            poetInfo.movementMethod = LinkMovementMethod.getInstance()
             navController = findNavController()
             toolbar.setNavigationOnClickListener  {
                 navController.popBackStack()
